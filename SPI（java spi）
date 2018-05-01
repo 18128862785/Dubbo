@@ -1,1 +1,19 @@
 java spi
+
+代理（Proxy：javassist等）
+
+反射（Invoke）
+
+协议（Protocol：DubboProtocl等）
+
+序列化（Hession等）
+
+NIO（netty,mina）
+
+SPI（java spi）
+
+装饰器模式（wrapper）
+
+观察者模式（订阅和监听）
+
+spring自定义标签（容器启动时bean的解析）
